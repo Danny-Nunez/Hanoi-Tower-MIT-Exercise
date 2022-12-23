@@ -13,4 +13,4 @@ Download all of the files to the same directory, making sure to keep the same fi
 Future improvements to this could be to give the user an option attempt to solve the puzzle and then see the solution.
 
 ## Licence Info
-Code written by Danny NUnez using starter code from the MITxPRO full stack development bootcamp course.
+Code written by Danny Nunez using starter code from the MITxPRO full stack development bootcamp course.
